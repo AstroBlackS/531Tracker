@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="ohp">#D84315</color>
+    <color name="deadlift">#2E7D32</color>
+    <color name="bench">#0277BD</color>
+    <color name="squat">#6A1B9A</color>
+</resources>
